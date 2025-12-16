@@ -1,0 +1,3 @@
+The individual proportional, integrator and differentiator outputs are shown seperately.
+The output of the PID controller as a whole is shown.
+The output of the PWM generator with different DC input values is also shown.
