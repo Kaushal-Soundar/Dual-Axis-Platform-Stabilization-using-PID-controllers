@@ -1,0 +1,4 @@
+The sensor is a custom made sensor. 
+A Bourns 3590S precision potentiometer is used with a pendulum like weight attached to the shaft of the potentiometer.
+The weight will be hanging downwards toward the earth's surface and the body of the potentiometer is to be attached to the platform. 
+As the platform rotates the resistance of the potentiometer will vary giving varying voltages.
